@@ -5,34 +5,11 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs
-enter in new branch and add new text again :
+1-----enter in new branch and add new text again :
 1. Write an article.
 2. Code.
 3. Study books.
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs
-
 ---------2----------
-1. Write an article.
-2. Code.
-3. Study books.
-4. Attend classes on time.
-5. Visit aunt.
-6. Apply for remote jobs
----------3----------
-1. Write an article.
-2. Code.
-3. Study books.
-
-
-3. Study books.
-3. Study books.
-3. Study books.
-3. Study books.
-
-
-
-2. Code.2. Code.2. Code.2. Code.
-
-
